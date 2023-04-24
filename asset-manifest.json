@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/eslam-studio1/static/css/main.1d9f4ff2.css",
+    "main.js": "/eslam-studio1/static/js/main.204b94be.js",
+    "static/js/787.eed11b04.chunk.js": "/eslam-studio1/static/js/787.eed11b04.chunk.js",
+    "static/media/video.mp4": "/eslam-studio1/static/media/video.e61567bac97a2d57abb2.mp4",
+    "static/media/p2.jpg": "/eslam-studio1/static/media/p2.523e5eb9c1ae6d7716fd.jpg",
+    "static/media/f1.jpg": "/eslam-studio1/static/media/f1.90ea20fd397ed24e8495.jpg",
+    "static/media/about2.jpg": "/eslam-studio1/static/media/about2.039e7808e2d98bfe27bb.jpg",
+    "static/media/about.jpg": "/eslam-studio1/static/media/about.113c97319ea42bbf3f71.jpg",
+    "static/media/e1.jpg": "/eslam-studio1/static/media/e1.723c4ac20ff7b6b4da7b.jpg",
+    "static/media/w1.jpg": "/eslam-studio1/static/media/w1.672e6a4868effa2340c7.jpg",
+    "static/media/w2.jpg": "/eslam-studio1/static/media/w2.094855eb71e4e5c03a94.jpg",
+    "static/media/p3.jpg": "/eslam-studio1/static/media/p3.b893e27c15bea066abf6.jpg",
+    "static/media/p1.jpg": "/eslam-studio1/static/media/p1.976bf3b7507fd4db6a7e.jpg",
+    "static/media/f2.jpg": "/eslam-studio1/static/media/f2.e80d1df3a4488e1224b7.jpg",
+    "static/media/e2.jpg": "/eslam-studio1/static/media/e2.89ae761f32cac59c2561.jpg",
+    "static/media/icon5.svg": "/eslam-studio1/static/media/icon5.b98b5755b9e6e324eaf9196269e53fd7.svg",
+    "static/media/icon4.svg": "/eslam-studio1/static/media/icon4.2deee84aaec2a3cc39feb3c90f0285fd.svg",
+    "static/media/icon6.svg": "/eslam-studio1/static/media/icon6.abd23db7304712e8839588ff22fa4607.svg",
+    "static/media/icon1.svg": "/eslam-studio1/static/media/icon1.2f44d7e7f96758342b401cd154550996.svg",
+    "index.html": "/eslam-studio1/index.html",
+    "static/media/icon3.svg": "/eslam-studio1/static/media/icon3.8cebfd1fe7d1954d35336e450c63e9a8.svg",
+    "static/media/icon2.svg": "/eslam-studio1/static/media/icon2.58990d396e93346f7048190476c1df42.svg",
+    "main.1d9f4ff2.css.map": "/eslam-studio1/static/css/main.1d9f4ff2.css.map",
+    "main.204b94be.js.map": "/eslam-studio1/static/js/main.204b94be.js.map",
+    "787.eed11b04.chunk.js.map": "/eslam-studio1/static/js/787.eed11b04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d9f4ff2.css",
+    "static/js/main.204b94be.js"
+  ]
+}
